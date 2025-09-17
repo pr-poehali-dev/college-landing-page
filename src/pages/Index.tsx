@@ -15,7 +15,7 @@ const Index = () => {
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="font-open-sans text-gray-700 hover:text-primary transition-colors">Главная</a>
-              <a href="#about" className="font-open-sans text-gray-700 hover:text-primary transition-colors">О коледже</a>
+              <a href="#about" className="font-open-sans text-gray-700 hover:text-primary transition-colors">О колледже</a>
               <a href="#programs" className="font-open-sans text-gray-700 hover:text-primary transition-colors">Специальности</a>
               <a href="#contact" className="font-open-sans text-gray-700 hover:text-primary transition-colors">Контакты</a>
             </div>
@@ -59,7 +59,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="font-montserrat text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-              О нашем коледже
+              О нашем колледже
             </h2>
             <p className="font-open-sans text-xl text-gray-600 max-w-3xl mx-auto">
               ККУТТ — ведущее учебное заведение, готовящее специалистов для городского хозяйства и транспорта
